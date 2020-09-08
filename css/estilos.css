@@ -1,0 +1,31 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+header{
+    padding:0.5em;
+    text-align: right;
+    width: 100%;
+    border: 1px solid red;
+    padding-right: 1em;
+    margin-right:1em;
+
+}
+header h1{
+    text-align: left;
+}
+nav{
+    padding-right: 2em;
+
+}
+
+
+.encabezado{
+    font-size: 20px;
+}
+
+#form_edit{
+    margin:10px;
+    padding:10px;
+}
